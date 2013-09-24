@@ -20,5 +20,4 @@ I wake up. I make coffee in a steel espresso pot. I start up my machine to a bar
 
 Yes, no. Do you believe the Internet is real, or a figment of your imagination?
 
-I had this idea a few years ago. What if I had a pseudononymous second self
-(or avatar) who would take care of my physical self? In early 2012 I was living in San Francisco, and I made up the name Ven Portman. I used the name at a laundry service once, and ever since the name stuck. Now it's fall of 2013, and I'm transitioning into the namespace for all of my digital presence.
+I had this idea a few years ago. What if I had a pseudononymous second self (or avatar) who would take care of my physical self? In early 2012 I was living in San Francisco, and I made up the name Ven Portman. I used the name at a laundry service once, and ever since the name stuck. Now it's fall of 2013, and I'm transitioning into the namespace for all of my digital presence.
