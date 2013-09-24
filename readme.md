@@ -26,3 +26,6 @@ To get new updates, navigate to the directory and type
 	git pull origin master
 
 This will bring my latest writing to your computer.
+
+-Ven Portman
+[http://venportman.com](http://venportman.com)
