@@ -35,8 +35,4 @@ Just look at systemd. I will be trolled from now until the next century by sayin
 
 Isn't this easy? It is pretty easy. But it's also so invisible no one would know what I was talking about at a party in the valley. Systemd, what? Because we have a hard time understanding the invisible inner-workings of our computers. Because so few of us were involved back in the day when people used to build computers from scratch.
 
-Many people throw up their hands in distress when you ask them what the different between RAM, a processor, and a hard disk.
-
-**THIS IS HALF FINISHED**
-
- 
+Many people throw up their hands in distress when you ask them what the difference is between RAM, a processor, and a hard disk. We don't all need to know these things, but if you expect to be involved in technology, shouldn't you? 
